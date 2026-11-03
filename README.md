@@ -33,3 +33,15 @@ A beginner-friendly Python project to manage daily personal expenses.
 Poornima B
 
 Beginner Python Project | AI & Data Science Engineering
+## Future Improvements
+
+- Add monthly expense reports
+- Display expenses using charts
+- Add expense categories
+- Create a user-friendly interface
+
+## Conclusion
+
+This project helped me learn Python programming,
+file handling, CSV storage, functions, loops,
+and exception handling.
